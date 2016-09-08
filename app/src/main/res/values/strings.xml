@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TapCounterApp</string>
+    <string name="initial">No Taps Yet!</string>
+    <string name="addone">+1</string>
+    <string name="subtractone">-1</string>
+    <string name="reset">RESET SCORE</string>
+    <string name="count">Count</string>
+
+
+</resources>
